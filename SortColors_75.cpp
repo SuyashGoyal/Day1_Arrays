@@ -34,7 +34,7 @@ Algorithm Termination:
             when 'mid' crosses 'high'
             => all elements have been processed and the array sorted
 
-sorts the array in a single pass through the elements. T.C: O(n)
+sorts the array in a single pass through the elements. T.C: O(n) S.C: O(1)
                 
 */
 
